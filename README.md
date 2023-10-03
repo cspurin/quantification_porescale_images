@@ -1,4 +1,4 @@
-# quantification_pore_scale_image
+# quantification_pore_scale_images
 Notebook for calculating the Minkowski functionals for a segmented pore scale image
 
 Recommended steps for running the notebook. 
