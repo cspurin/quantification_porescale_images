@@ -8,8 +8,8 @@ Recommended steps for running the notebook.
 4. Open a new folder (link it the folder containing the contents of this repository, wherever that is on your computer)
 5. Create a virtual enviornment. In vscode click View>Terminal and enter the code below:
    python -m venv myenv
-   for Mac: source myenv/bin/activate
-   or on Windows: myenv\Scripts\activate
+   Then for Mac enter: source myenv/bin/activate
+   or for Windows: myenv\Scripts\activate
 6. Install the necessary packages by typing this in the terminal
    pip install -r requirements.txt
    NB must be in the folder where the requirements.txt file is. Alternatively, you can install the packages individually e.g. pip install numpy.
