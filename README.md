@@ -1,5 +1,6 @@
 # quantification_pore_scale_images
-Notebook for calculating the Minkowski functionals for a segmented pore scale image
+Notebook for calculating the Minkowski functionals for a segmented pore scale image. 
+Functionals described here: https://doi.org/10.1016/j.softx.2021.100823
 
 Recommended steps for running the notebook. 
 1. Download and install vscode: https://code.visualstudio.com/
