@@ -7,6 +7,8 @@ This notebook takes a segmennted pore-scale image and calculates the 4 Minkowski
 
 The Minkowski functionals are described in detail in this manuscript: https://doi.org/10.1016/j.softx.2021.100823
 
+There is also an example for calculating the maximum inscribed sphere in 2D. 
+
 ## Recommended steps for running the notebook. 
 1. Download and install vscode: https://code.visualstudio.com/
 2. Download and install python: https://www.python.org/downloads/ (download version 3.10.11)
