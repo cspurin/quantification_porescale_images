@@ -1,5 +1,4 @@
 ﻿scikit-learn 
-skimage 
 jupyter 
 scikit-image
 matplotlib
