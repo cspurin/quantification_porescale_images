@@ -1,11 +1,10 @@
-﻿scikit-learn 
+scikit-learn 
 jupyter 
 scikit-image
 matplotlib
-os 
 numpy
-utlis 
+utils
 tifffile
 ipywidgets
-quantimpy 
+quantimpy
 einops
